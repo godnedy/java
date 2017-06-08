@@ -1,1 +1,1 @@
-Readers Writers problem implementation. Main class is ReadingRoom
+Readers Writers problem implementation with Monitors. Main class is ReadingRoom
